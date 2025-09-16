@@ -1,0 +1,6 @@
+customer_id,age,income,credit_score,loan_amount,term_months,employment_type,defaulted
+C001,34,45000,700,15000,36,Full-time,No
+C002,28,52000,670,12000,24,Self-employed,No
+C003,50,30000,580,10000,48,Unemployed,Yes
+C004,40,75000,720,20000,36,Full-time,No
+C005,23,40000,610,8000,12,Self-employed,Yes
